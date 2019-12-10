@@ -7,7 +7,7 @@ baseline: spec
 				baseline: 'Seaside3'
 					with: [ spec
 						loads: #('Tests' 'Zinc-Seaside');
-						repository: 'github://SeasideSt/Seaside:v3.3.0/repository' ];
+						repository: 'github://SeasideSt/Seaside:v3.3.4/repository' ];
 				baseline: 'Ston'
 					with: [ spec repository: 'github://svenvc/ston:049da2f/repository' ].
 			spec
